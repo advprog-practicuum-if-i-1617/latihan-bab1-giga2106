@@ -10,6 +10,8 @@ Yang bertanda tangan dibawah ini
 
 Yang membuat pernyataan,
 
-https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-giga2106/blob/master/gg.jpg
+<p align="left">
+  <img src="https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-giga2106/blob/master/gg.jpg" width="150" height="100"/>
+</p>
 
 Giga Setiawan
