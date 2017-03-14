@@ -10,6 +10,6 @@ Yang bertanda tangan dibawah ini
 
 Yang membuat pernyataan,
 
-(( tanda tangan anda yang telah di scan ))
+https://github.com/advprog-practicuum-if-i-1617/latihan-bab1-giga2106/blob/master/gg.jpg
 
 Giga Setiawan
