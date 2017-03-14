@@ -36,9 +36,9 @@ public class Pacmain {
         obj[5][4] = "@";
         obj[5][5] = "@";
         obj[5][6] = "O";
-        p1.setMove(10);
+        p1.setMove(20);
         p1.setFood(10);
-        while (p1.getMove() > 0){
+        while (p1.getMove() > 0 && p1.getScore()<10){
             for (int i = 0; i < 10; i++) {
                 for (int j = 0; j < 10; j++) {
                     System.out.print(obj[i][j]);
